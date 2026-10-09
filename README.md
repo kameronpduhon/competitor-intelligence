@@ -1,4 +1,4 @@
-# PulseTurf
+# Competitor Intelligence
 
 Med spa competitive intelligence SaaS. Every Monday morning, paying users get an email with how their Google reviews compare to their top competitor: rating shifts, new reviews, what clients are saying. No dashboard, no app — the email is the product.
 
@@ -78,7 +78,7 @@ Production runs on Laravel Forge with Supervisor for the queue and a single cron
 ## Project Structure
 
 ```
-pulseturf/
+competitor-intelligence/
 ├── app/
 │   ├── Http/
 │   │   ├── Controllers/StripeWebhookController.php
